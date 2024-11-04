@@ -1,4 +1,4 @@
-# Projeto de Estudos - Jogo da Memória 🎮
+# Projeto de Estudos - Jogo de Memória 🎮
 
 ## Descrição
 Este projeto é uma iniciativa para aprender lógica de programação utilizando quatro linguagens: C++, Python, C#, e Java. O objetivo é implementar um jogo da memória em cada uma dessas linguagens, praticando conceitos fundamentais de programação.
