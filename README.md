@@ -16,7 +16,7 @@ O jogo da memória possui as seguintes características:
 - O jogador pode virar duas cartas por vez e, se elas forem iguais, permanecerão viradas. Caso contrário, elas serão viradas novamente.
 
 ## Documentação das Linguagens
-- **C++**: [Documentação Oficial do C++](https://en.cppreference.com/w/)
-- **Python**: [Documentação Oficial do Python](https://docs.python.org/3/)
-- **Java**: [Documentação Oficial do Java](https://docs.oracle.com/javase/8/docs/api/)
-- **C#**: [Documentação Oficial do C#](https://docs.microsoft.com/dotnet/csharp/)
+[C++](https://en.cppreference.com/w/)
+[Python](https://docs.python.org/3/)
+[Java](https://docs.oracle.com/javase/8/docs/api/)
+[C#](https://docs.microsoft.com/dotnet/csharp/)
