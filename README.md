@@ -15,8 +15,8 @@ O jogo da memória possui as seguintes características:
 - As cartas são dispostas em uma grade e viradas para baixo.
 - O jogador pode virar duas cartas por vez e, se elas forem iguais, permanecerão viradas. Caso contrário, elas serão viradas novamente.
 
-## Documentação das Linguagens
-[C++](https://en.cppreference.com/w/)
-[Python](https://docs.python.org/3/)
-[Java](https://docs.oracle.com/javase/8/docs/api/)
-[C#](https://docs.microsoft.com/dotnet/csharp/)
+## Documentação 
+.[C++](https://en.cppreference.com/w/)
+.[Python](https://docs.python.org/3/)
+.[Java](https://docs.oracle.com/javase/8/docs/api/)
+.[C#](https://docs.microsoft.com/dotnet/csharp/)
