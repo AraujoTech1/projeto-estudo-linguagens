@@ -1,6 +1,6 @@
 <h1 align="center">Projeto de Estudos - Jogo de Memória 🎮</h1> 
 
-## Descrição do Porjeto
+## Descrição do Projeto
 Este projeto é uma iniciativa para aprender lógica de programação utilizando quatro linguagens: C++, Python, C#, e Java. O objetivo é implementar um jogo da memória em cada uma dessas linguagens, praticando conceitos fundamentais de programação.
 O jogo da memória possui as seguintes características:
 - O jogador deve encontrar pares de cartas iguais.
